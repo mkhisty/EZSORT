@@ -1,7 +1,7 @@
 # EZSORT
 A very easy to use, simplistic array integer sorting library for C which can sort integer array usging the quicksort algorithm.
 # How To Use It
-First of all, put "sort.h" wherever your compiler looks for libraries.
+First of all, put "ezsort.h" wherever your compiler looks for libraries.
 ```C
 #include <stdio.h>
 #include "ezsort.h"
